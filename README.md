@@ -13,7 +13,7 @@
 
 Monitoramento e identificação de alterações de comportamento.
 
-**Comporta.io** tem como objetivo resolver a dor de pessoas dentro do espectro autista nível 2 e 3. Essa dor está relacionada a identificação de possíveis mudanças de comportamentos.
+**Comporta.io** tem como objetivo resolver a dor de pessoas que estão dentro do espectro autista nível 2 e 3. Essa dor está relacionada a identificação de possíveis mudanças de comportamentos.
 
 Software foi desenvolvido para o MVP da Sprint 1 da pós graduação de Engenharia de Software PUC-Rio.
 Apresentação em: https://youtu.be/6cihGNLlNhE
